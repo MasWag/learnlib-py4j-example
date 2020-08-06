@@ -58,6 +58,10 @@ Then, we simply run our Python program:
 
 `python python/Main.py`
 
+We can also play the Jupyter notebooks. Jupyter Notebook can be run by the following.
+
+`jupyter notebook`
+
 ---
 
 Once we are finished, the JVM process can be terminated by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd> 

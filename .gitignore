@@ -16,3 +16,6 @@ bin/
 #Intellij settings
 *.iml
 .idea/
+
+# jupyter notebook
+.ipynb_checkpoints
